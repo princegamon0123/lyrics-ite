@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+hr {
+    border: none;
+    height: 3px;
+    background-color: rgb(214, 95, 115);
+    width: 80%;
+    margin: 20px auto;
+}
+h1{
+    font-family: cursive;
+    color: pink;
+}
+.card{
+    width: 70%;
+    max-width: 650px;
+    background-color: pink;
+    padding: 30px;
+    border: 4px dashed rgb(214, 95, 115);
+    border-radius: 25px;
+    justify-content: center ;
+    margin: 0 auto;
+}
+.card img{
+    border: 5px solid rgb(212, 61, 86);
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.card audio{
+    width: 100%;
+
+
+}
